@@ -1,0 +1,19 @@
+.list-server {
+	ul {
+		background: #2d2e44;
+		color: #fff;
+		padding: 20px;
+		margin-top: 20px;
+		min-height: 250px;
+		li {
+			list-style: none;
+		}
+	}
+
+	.table-responsive {
+		max-height: 400px;
+		overflow: hidden;
+		overflow-y: scroll;
+		border-bottom: 2px solid #2d2e4473;
+	}
+}
