@@ -70,7 +70,7 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.3.4",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "file-saver": "^2.0.2",
     "immutability-helper": "^3.0.1",
     "json2csv": "^4.5.1",
