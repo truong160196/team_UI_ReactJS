@@ -74,7 +74,7 @@
     "file-saver": "^2.0.2",
     "immutability-helper": "^3.0.1",
     "json2csv": "^4.5.1",
-    "jszip": "^3.2.1",
+    "jszip": "^3.7.0",
     "moment": "^2.24.0",
     "prop-types": "^15.7.2",
     "react": "^16.8.6",
